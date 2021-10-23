@@ -25,6 +25,25 @@ html {
 body {
   font-family: 'Cairo', sans-serif;
 }
+::-webkit-scrollbar {
+  width: 15px;
+}
+::-webkit-scrollbar-track {
+  background-color: #f6f6f6;
+  box-shadow: 0 0 10px #ddd inset;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #2195f365;
+  border-radius: 10px;
+  height: 100px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #2195f3;
+}
+
+
+
+
 ul {
   list-style: none;
 }
