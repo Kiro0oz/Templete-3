@@ -1,6 +1,6 @@
 # Templete-3 Kiro0oz Website
 
-- Useing HTML & CSS with Flexbole and Grid System
+- Useing HTML & CSS with Flexbox and Grid System
 - Respnsive For Any Meadia 
 
 
